@@ -1,0 +1,10 @@
+.idea
+.classpath
+.DS_Store
+*.swp
+.project
+.settings
+target
+eyesight.iml
+.metadata
+*.iml
